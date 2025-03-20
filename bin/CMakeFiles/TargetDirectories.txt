@@ -1,0 +1,7 @@
+/root/my/mychat/bin/CMakeFiles/edit_cache.dir
+/root/my/mychat/bin/CMakeFiles/rebuild_cache.dir
+/root/my/mychat/bin/src/CMakeFiles/edit_cache.dir
+/root/my/mychat/bin/src/CMakeFiles/rebuild_cache.dir
+/root/my/mychat/bin/src/server/CMakeFiles/ChatServer.dir
+/root/my/mychat/bin/src/server/CMakeFiles/edit_cache.dir
+/root/my/mychat/bin/src/server/CMakeFiles/rebuild_cache.dir
